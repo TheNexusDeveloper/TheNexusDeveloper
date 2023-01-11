@@ -12,7 +12,7 @@ TheNexusDeveloper/TheNexusDeveloper is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheNexusDeveloper&repo=TheNexusDeveloper)](https://github.com/TheNexusDeveloper/TheNexusDeveloper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheNexusDeveloper&repo=TheNexusDeveloper&show_owner)](https://github.com/TheNexusDeveloper/TheNexusDeveloper)
 
 ![Kosy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNexusDeveloper&show_icons=true&theme=dark)
 

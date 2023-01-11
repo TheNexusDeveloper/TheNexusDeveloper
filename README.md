@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning web development using ReactJS and Python Django
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me : 
-- twitter & Instagram @iamkosy11
+- twitter & Instagram @iamkosy11 
+- https://twitter.com/iamkosy11
 
 <!---
 TheNexusDeveloper/TheNexusDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
